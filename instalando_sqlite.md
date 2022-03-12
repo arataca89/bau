@@ -12,5 +12,6 @@ Use ".open FILENAME" to reopen on a persistent database.
 sqlite>
 </pre>
 <p>Data: 12/03/2022</p>
+
 ## Fonte:
 [www.tutorialspoint.com/sqlite/sqlite_installation.htm](https://www.tutorialspoint.com/sqlite/sqlite_installation.htm)
