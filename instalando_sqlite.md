@@ -2,7 +2,7 @@
 
 1. Vá na [página de download do SQLite](https://www.sqlite.org/download.html) e baixe os binários pré-compilados para Windows.
 2. Baixe os arquivos <tt>sqlite-tools.zip</tt> (quando baixei só tinha 32-bit) e <tt>sqlite-dll-win.zip</tt> para seu computador (32-bit ou 64-bit).
-3. Crie um diretório <tt>C:\>sqlite</tt> e descompacte os arquivos zipados citados acima neste diretório. Após a descompactação você terá os arquivos: <tt>sqlite3.def</tt>, <tt>sqlite3.dll</tt> e <tt>sqlite3.exe</tt>.
+3. Crie um diretório <tt>C:'\'>sqlite</tt> e descompacte os arquivos zipados citados acima neste diretório. Após a descompactação você terá os arquivos: <tt>sqlite3.def</tt>, <tt>sqlite3.dll</tt> e <tt>sqlite3.exe</tt>.
 4. Adiciona o diretório <tt>C:\>sqlite</tt> ao seu <tt>PATH</tt> e finalmente vá para a linha de comando e digite o comando <tt>sqlite3</tt>, o qual deverá retornar algo como:
 <pre>
 SQLite version 3.38.0 2022-02-22 18:58:40
