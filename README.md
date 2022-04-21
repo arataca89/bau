@@ -1,4 +1,19 @@
 # Baú digital
+### Substituindo o conteúdo de uma branch
+´´´´
+git checkout branch_a_ser_substituida
+git reset --hard branch_com_novas_alteracoes
+git push --force origin branch_a_ser_substituida
+
+COMANDOS:
+
+git checkout — vai para a branch a ser modificada.
+
+git reset --hard — pega os dados da branch com as alteracoes.
+
+git push --force origin — forca a publicacao das alteracoes na branch substituida.
+´´´
+
 <p>Bizús diversos sobre informática e programação.</p>
 <ul>
   <li><a href="https://github.com/arataca89/bau/blob/main/instalando_sqlite.md">Instalando o SQLite no Windows</a></li>
