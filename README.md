@@ -1,4 +1,6 @@
 # Baú digital
+### Bizús diversos sobre informática e programação
+
 ### Substituindo o conteúdo de uma branch
 ```sh
 git checkout branch_a_ser_substituida
@@ -14,7 +16,7 @@ git reset --hard — pega os dados da branch com as novas alterações.
 git push --force origin — força a publicação das alterações na branch substituída.
 ```
 
-### Bizús diversos sobre informática e programação
+### Links interessantes
 <ul>
   <li><a href="https://github.com/arataca89/bau/blob/main/instalando_sqlite.md">Instalando o SQLite no Windows</a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference">Referência JavaScript</a></li>
