@@ -9,9 +9,9 @@ COMANDOS:
 
 git checkout — vai para a branch a ser modificada.
 
-git reset --hard — pega os dados da branch com as alteracoes.
+git reset --hard — pega os dados da branch com as alterações.
 
-git push --force origin — forca a publicacao das alteracoes na branch substituida.
+git push --force origin — força a publicação das alterações na branch substituída.
 ```
 
 <p>Bizús diversos sobre informática e programação.</p>
