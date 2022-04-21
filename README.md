@@ -1,6 +1,6 @@
 # Baú digital
 ### Substituindo o conteúdo de uma branch
-´´´´
+```sh
 git checkout branch_a_ser_substituida
 git reset --hard branch_com_novas_alteracoes
 git push --force origin branch_a_ser_substituida
@@ -12,7 +12,7 @@ git checkout — vai para a branch a ser modificada.
 git reset --hard — pega os dados da branch com as alteracoes.
 
 git push --force origin — forca a publicacao das alteracoes na branch substituida.
-´´´
+```
 
 <p>Bizús diversos sobre informática e programação.</p>
 <ul>
