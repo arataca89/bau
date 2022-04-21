@@ -14,7 +14,7 @@ git reset --hard — pega os dados da branch com as novas alterações.
 git push --force origin — força a publicação das alterações na branch substituída.
 ```
 
-<p>Bizús diversos sobre informática e programação.</p>
+### Bizús diversos sobre informática e programação
 <ul>
   <li><a href="https://github.com/arataca89/bau/blob/main/instalando_sqlite.md">Instalando o SQLite no Windows</a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference">Referência JavaScript</a></li>
