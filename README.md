@@ -28,3 +28,7 @@ git push --force origin — força a publicação das alterações na branch sub
   <li><a href="https://app.diagrams.net">app.diagrams.net - Desenhar fluxogramas online</a.</li>
 </ul>  
 
+<table border=1>
+  <tr><td>TESTE</td></tr> 
+  <tr><td>TESTE</td></tr> 
+</table>
