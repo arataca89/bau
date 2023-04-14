@@ -17,24 +17,24 @@ git push --force origin — força a publicação das alterações na branch sub
 ```
 ### Atalhos de teclado do Notepad++
 ```sh
-duplicar linha				CTRL + D
-apagar linha				CTRL + L
-mover linha					CTRL + SHIFT + seta
-comentar linhas				CTRL + Q
-caixa baixa(minusculas)		CTRL + U
+duplicar linha            CTRL + D
+apagar linha              CTRL + L
+mover linha               CTRL + SHIFT + seta
+comentar linhas				    CTRL + Q
+caixa baixa(minusculas)   CTRL + U
 caixa alta(maiusculas)		CTRL + SHIFT + U
-tabulação					TAB
-retirar tabulação			SHIFT + TAB
-inicio da linha				HOME
-fim da linha				END
-primeira linha				CTRL + HOME
-ultima linha				CTRL + END
-salvar documento			CTRL + S
-novo documento				CTRL + N
-fechar documento			CTRL + W
-aumentar/diminuir fonte		CTRL + roda do mouse
-localizar					CTRL + F
-localizar e substituir		CTRL + H
+tabulação					        TAB
+retirar tabulação			    SHIFT + TAB
+inicio da linha				    HOME
+fim da linha				      END
+primeira linha				    CTRL + HOME
+ultima linha				      CTRL + END
+salvar documento			    CTRL + S
+novo documento				    CTRL + N
+fechar documento			    CTRL + W
+aumentar/diminuir fonte   CTRL + roda do mouse
+localizar                 CTRL + F
+localizar e substituir    CTRL + H
 ```
 
 ### Links interessantes
