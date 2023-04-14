@@ -15,6 +15,9 @@ git reset --hard — pega os dados da branch com as novas alterações.
 
 git push --force origin — força a publicação das alterações na branch substituída.
 ```
+### Atalhos de teclado do Notepad++
+
+
 
 ### Links interessantes
 <ul>
