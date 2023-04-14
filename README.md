@@ -16,6 +16,26 @@ git reset --hard — pega os dados da branch com as novas alterações.
 git push --force origin — força a publicação das alterações na branch substituída.
 ```
 ### Atalhos de teclado do Notepad++
+```sh
+duplicar linha				CTRL + D
+apagar linha				CTRL + L
+mover linha					CTRL + SHIFT + seta
+comentar linhas				CTRL + Q
+caixa baixa(minusculas)		CTRL + U
+caixa alta(maiusculas)		CTRL + SHIFT + U
+tabulação					TAB
+retirar tabulação			SHIFT + TAB
+inicio da linha				HOME
+fim da linha				END
+primeira linha				CTRL + HOME
+ultima linha				CTRL + END
+salvar documento			CTRL + S
+novo documento				CTRL + N
+fechar documento			CTRL + W
+aumentar/diminuir fonte		CTRL + roda do mouse
+localizar					CTRL + F
+localizar e substituir		CTRL + H
+```sh
 
 
 
