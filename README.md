@@ -35,9 +35,7 @@ fechar documento			CTRL + W
 aumentar/diminuir fonte		CTRL + roda do mouse
 localizar					CTRL + F
 localizar e substituir		CTRL + H
-```sh
-
-
+```
 
 ### Links interessantes
 <ul>
