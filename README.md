@@ -37,6 +37,11 @@ git push --force origin — força a publicação das alterações na branch sub
 | localizar | CTRL + F |
 | localizar e substituir | CTRL + H |
 
+### Abrir arquivo com o Notepad++ a partir do prompt do Windows
+
+```sh
+start notepad++ PATH (ou somente o nome se estiver no mesmo diretório)
+```
 ### Links interessantes
 <ul>
   <li><a href="https://github.com/arataca89/bau/blob/main/instalando_sqlite.md">Instalando o SQLite no Windows</a></li>
